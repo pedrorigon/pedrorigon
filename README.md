@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Pedro Rigon
 
-###
 
 <div align="center">
  <a href="https://github.com/pedrorigon">
