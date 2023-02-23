@@ -1,8 +1,8 @@
-### Hi there 👋, I'm Pedro Rigon
-
-> Currently, I am studying web development.
+### Hi there 👋
 
 ### Hello, fellow developers! My name is Pedro Rigon, and I am a computer engineering student at UFRGS. I have a passion for parallel and distributed programming, and I am always eager to learn about new technologies.
+
+> Currently, I am studying web development.
 
 ## Technical Skills
 
