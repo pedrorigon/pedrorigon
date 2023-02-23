@@ -1,5 +1,16 @@
 ### Hi there 👋, I'm Pedro Rigon
 
+> Currently, I am studying web development.
+
+### Hello, fellow developers! My name is Pedro Rigon, and I am a computer engineering student at UFRGS. I have a passion for parallel and distributed programming, and I am always eager to learn about new technologies.
+
+## Technical Skills
+
+- Programming Languages: Java, Python, C, C++
+- Parallel and Distributed Programming: OpenMP, OpenACC, CUDA
+- Operating Systems: Linux, Windows
+- Version Control: Git
+- Web Development: HTML, CSS, JavaScript
 
 <div align="center">
  <a href="https://github.com/pedrorigon">
