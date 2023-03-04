@@ -12,10 +12,11 @@
 - Version Control: Git
 - Web Development: HTML, CSS, JavaScript
 
+
 <div align="center">
  <a href="https://github.com/pedrorigon">
-  <img height="48%"src="https://github-readme-stats.vercel.app/api?username=pedrorigon&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
- <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorigon&layout=compact&langs_count=16&theme=light"/>
+  <img width="49%" height="195px"src="https://github-readme-stats.vercel.app/api?username=pedrorigon&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+ <img "49%" height="195px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorigon&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
