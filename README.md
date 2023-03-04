@@ -18,6 +18,11 @@
   <img width="49%" height="195px"src="https://github-readme-stats.vercel.app/api?username=pedrorigon&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
  <img "49%" height="195px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorigon&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
+ 
+ <br>
+ 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pedrorigon&bg_color=241f31&color=c061cb&line=ffffff&point=ff7800&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
   <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pedro-Arduino" height="40" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
