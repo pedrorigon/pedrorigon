@@ -15,7 +15,7 @@
 
 <div align="center">
  <a href="https://github.com/pedrorigon">
-  <img width="49%" height="195px"src="https://github-readme-stats.vercel.app/api?username=pedrorigon&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img width="49%" height="200px"src="https://github-readme-stats.vercel.app/api?username=pedrorigon&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
  <img "49%" height="195px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorigon&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
   <div style="display: inline_block"><br>
