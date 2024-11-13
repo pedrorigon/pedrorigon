@@ -10,7 +10,6 @@
 - Parallel and Distributed Programming: OpenMP, OpenACC, CUDA
 - Operating Systems: Linux, Windows
 - Version Control: Git
-- Web Development: HTML, CSS, JavaScript
 
 
 <div align="center">
