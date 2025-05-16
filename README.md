@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-### Hello, fellow developers! My name is Pedro Rigon, and I am a computer engineering student at UFRGS. I have a passion for parallel and distributed programming, and I am always eager to learn about new technologies.
+I'm **Pedro Rigon**, a Computer Engineering student at **UFRGS** and research intern at **Concordia University Montreal (Canada)** through the **MITACS Globalink** program.
 
-> Currently, I am studying web development.
+🚀 I work at the intersection of **high-performance computing (HPC)**, **GPU acceleration**, and **post-quantum cryptography**, with real-world applications in **QUIC**, **TLS 1.3**, and **oil & gas simulations**.
 
-## Technical Skills
+🔬 My background includes:
+- Research in **post-quantum cryptography** with performance benchmarking across **Intel, AMD, and NVIDIA** GPUs.
+- Development of **multi-GPU seismic simulation kernels** using **CUDA**, **HIP**, and **OpenMP**.
+- Optimization of cloud-ready **FastAPI** backends with **parallel SQL pipelines** and dynamic simulation engines.
 
-- Programming Languages: Java, Python, C, C++
-- Parallel and Distributed Programming: OpenMP, OpenACC, CUDA
-- Operating Systems: Linux, Windows
-- Version Control: Git
+🛠️ **Technical Stack:**
+- **Languages:** Python, C, C++, CUDA, SQL
+- **Parallelism:** CUDA, OpenMP, HIP, MPI, OpenACC
+- **Frameworks:** FastAPI, Pandas, NumPy, xlsxwriter, openpyxl
+- **Tools:** Docker, Git, Azure, Slurm, PostgreSQL
+- **OS:** Linux (primary), MacOS, Windows
 
+🧪 I'm passionate about performance, cryptographic security, and building scalable software systems. Let's connect!
+
+> 📚 Current focus: GPU benchmarking for post-quantum cryptography (ML-KEM, ML-DSA).
 
 <div align="center">
  <a href="https://github.com/pedrorigon">
@@ -23,30 +31,40 @@
  
  
   <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pedro-Arduino" height="40" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-  <img align="center" alt="Pedro-C" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Pedro-JS" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Pedro-JAVA" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Pedro-CSS" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Pedro-HTML" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Pedro-Cplus" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />       
-  <img align="center" alt="Pedro-Linux" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />     
+  <!-- Linguagens e Programação Geral -->
+  <!-- Programming Languages -->
+  <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img alt="C++" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+  <img alt="SQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+
+  <!-- GPU, HPC & Parallel Programming -->
+  <img alt="NVIDIA" height="40" src="https://cdn.worldvectorlogo.com/logos/nvidia-7.svg"/>
+  <img alt="OpenMP" height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/OpenMP_logo.png"/>
+  <img alt="OpenACC" height="40" src="https://www.openacc.org/themes/openacc/images/openacc_logo.svg"/>
+  <img alt="HIP/ROCm" height="40" src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4"/>
+
+  <!-- Backend & Dev Tools -->
+  <img alt="FastAPI" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+  <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
+  <!-- Databases & Cloud -->
+  <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img alt="Azure" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+  <img alt="Google Cloud" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
+
+  <!-- Operating Systems -->
+  <img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img alt="macOS" height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png"/>
+
   
 </div>
   <br>
 <div align="center"> 
   <a href="https://instagram.com/pedrorig1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/paladinoorc" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:pedrohenriquecasarottorigon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-casarotto-rigon-a69802162" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- ---
- <div align="center">
-<p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{pedrorigon}/count.svg" /></p> 
-</div>
- 
-  ![Snake animation](https://github.com/pedrorigon/pedrorigon/blob/output/github-contribution-grid-snake.svg)
+  <a href = "mailto:pedrohenriquecasarotto@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedrorigon" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
