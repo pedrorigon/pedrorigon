@@ -36,16 +36,13 @@ I'm **Pedro Rigon**, a Computer Engineering student at **UFRGS** and research in
   <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img alt="C++" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-  <img alt="SQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
   <!-- GPU, HPC & Parallel Programming -->
   <img alt="NVIDIA" height="40" src="https://cdn.worldvectorlogo.com/logos/nvidia-7.svg"/>
   <img alt="OpenMP" height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/OpenMP_logo.png"/>
   <img alt="OpenACC" height="40" src="https://www.openacc.org/themes/openacc/images/openacc_logo.svg"/>
-  <img alt="HIP/ROCm" height="40" src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4"/>
 
   <!-- Backend & Dev Tools -->
-  <img alt="FastAPI" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
   <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
   <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
