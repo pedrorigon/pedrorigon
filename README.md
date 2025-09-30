@@ -1,34 +1,34 @@
-### Hi there 👋
+# Pedro Rigon
 
-I'm **Pedro Rigon**, a Computer Engineering student at **UFRGS** and research intern at **Concordia University Montreal (Canada)** through the **MITACS Globalink** program.
+**HPC • GPU Acceleration • Post-Quantum Cryptography • QUIC/TLS 1.3 • High-Performance Backends**
 
-🚀 I work at the intersection of **high-performance computing (HPC)**, **GPU acceleration**, and **post-quantum cryptography**, with real-world applications in **QUIC**, **TLS 1.3**, and **oil & gas simulations**.
+> B.Sc. in Computer Engineering @ **UFRGS** · Research Intern @ **Concordia University (Montreal)** via **MITACS Globalink**
 
-🔬 My background includes:
-- Research in **post-quantum cryptography** with performance benchmarking across **Intel, AMD, and NVIDIA** GPUs.
-- Development of **multi-GPU seismic simulation kernels** using **CUDA**, **HIP**, and **OpenMP**.
-- Optimization of cloud-ready **FastAPI** backends with **parallel SQL pipelines** and dynamic simulation engines.
+## About
+I work at the intersection of **High-Performance Computing (HPC)**, **GPU programming**, and **Post-Quantum Cryptography (PQC)**, with real-world applications in **[QUIC](https://www.rfc-editor.org/rfc/rfc9000)** / **[TLS 1.3](https://www.rfc-editor.org/rfc/rfc8446)** and **oil & gas simulations**. I care about measurable impact: profiles, counters, and reproducible pipelines.
 
-🛠️ **Technical Stack:**
-- **Languages:** Python, C, C++, CUDA, SQL
-- **Parallelism:** CUDA, OpenMP, HIP, MPI, OpenACC
-- **Frameworks:** FastAPI, Pandas, NumPy, xlsxwriter, openpyxl
-- **Tools:** Docker, Git, Azure, Slurm, PostgreSQL
-- **OS:** Linux (primary), MacOS, Windows
+- PQC benchmarking on **Intel/AMD CPUs** and **NVIDIA GPUs** (CUDA / [cuPQC](https://developer.nvidia.com/blog/introducing-cupqc-accelerating-post-quantum-cryptography/))
+- Multi-GPU seismic kernels with **CUDA, HIP, OpenMP**, overlapping compute/comm
+- Cloud-ready **FastAPI** backends with parallel SQL pipelines and simulation engines
 
-🧪 I'm passionate about performance, cryptographic security, and building scalable software systems. Let's connect!
+> **Current focus:** GPU benchmarking for **NIST PQC** (ML-KEM / ML-DSA) in QUIC/TLS handshakes.
 
-> 📚 Current focus: GPU benchmarking for post-quantum cryptography (ML-KEM, ML-DSA).
+## Toolbox
 
-<div align="center">
- <a href="https://github.com/pedrorigon">
-  <img width="49%" height="195px"src="https://github-readme-stats.vercel.app/api?username=pedrorigon&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
- <img "49%" height="195px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorigon&layout=compact&langs_count=16&theme=synthwave"/>
-</div>
- 
- <br>
- 
- 
+**Languages:** Python · C · C++ · CUDA · SQL  
+**Parallelism:** CUDA · OpenMP · HIP · MPI · OpenACC  
+**Frameworks:** FastAPI · pandas · NumPy · xlsxwriter · openpyxl  
+**Dev/Infra:** Docker · Git · CMake/Ninja · Slurm · PostgreSQL  
+**Profiling/Analysis:** gprofng · Sanitizers (TSan/ASan/UBSan) · gcovr · clang-tidy  
+**OS/Cloud:** Linux (primary) · Azure · Google Cloud
+
+<details>
+<summary><strong>Extra details (click to expand)</strong></summary>
+
+- **Perf & Debug:** Linux perf, Valgrind, Sanitizers, gprofng GUI  
+- **Build:** CMake Presets, Ninja, scripted local “CI” (bash + Python reports)  
+- **Data/Reports:** pandas/NumPy, Excel automation (openpyxl/xlsxwriter) when needed
+</details>
  
   <div align="center" style="display: inline_block"><br>
   <!-- Linguagens e Programação Geral -->
