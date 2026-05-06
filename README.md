@@ -7,11 +7,21 @@
   M.Sc. researcher at UFRGS, focused on mixed-precision computing and precision emulation.
 </p>
 <p align="center">
-  <a href="https://pedrorigon.com.br"><img src="https://img.shields.io/badge/-Website-0A192F?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/pedrorigon"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:phcrigon@inf.ufrgs.br"><img src="https://img.shields.io/badge/-Email-333333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://orcid.org/0009-0007-9077-7196"><img src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
-  <a href="https://scholar.google.com/citations?user=37waUIoAAAAJ&hl=pt-EN"><img src="https://img.shields.io/badge/-Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
+  <a href="https://pedrorigon.com.br" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Website-0A192F?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pedrorigon" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:phcrigon@inf.ufrgs.br" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Email-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://orcid.org/0009-0007-9077-7196" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=37waUIoAAAAJ&hl=pt-EN" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -51,13 +61,15 @@ HPC Software Engineer at **CESAR**, working on large-scale oil & gas simulation 
   &nbsp;&nbsp;&nbsp;
   <span><img src="https://avatars.githubusercontent.com/u/14836989?s=200&v=4" height="18" align="absmiddle"/> MPI</span>
   &nbsp;&nbsp;&nbsp;
-  <span><img src="https://cdn.simpleicons.org/nvidia/76B900" height="18" align="absmiddle"/> Multi-GPU</span>
-  &nbsp;&nbsp;&nbsp;
   <span><img src="https://cdn.simpleicons.org/nvidia/76B900" height="18" align="absmiddle"/> CUDA Streams</span>
   &nbsp;&nbsp;&nbsp;
   <span><img src="https://cdn.simpleicons.org/nvidia/76B900" height="18" align="absmiddle"/> Unified Memory</span>
   &nbsp;&nbsp;&nbsp;
-  <span><img src="https://cdn.simpleicons.org/numpy/013243" height="18" align="absmiddle"/> Mixed Precision</span>
+  <span>
+  <img src="https://cdn.simpleicons.org/amd/ED1C24" height="18" align="absmiddle"/>
+  <img src="https://cdn.simpleicons.org/nvidia/76B900" height="18" align="absmiddle"/>
+  &nbsp;Mixed-Precision
+</span>
 </p>
 
 **Build & Toolchain:**
