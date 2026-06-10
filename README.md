@@ -26,116 +26,134 @@
 
 ---
 
-### About
+## About
 
-HPC Software Engineer at **CESAR**, working on large-scale oil & gas simulation applications. M.Sc. researcher in Computing at **UFRGS**, focused on mixed-precision computing and precision emulation on modern GPU architectures. **Computer Engineering** graduate from **UFRGS** with Academic Laurels **(GPA 9.69/10)**, and former research intern at **Concordia University (Montreal)** via MITACS Globalink.
+I build high-performance software for scientific and engineering workloads, with an emphasis on **GPU acceleration**, **numerical simulation**, and **performance optimization**.
 
-> **Current focus:** **Mixed-Precision** & **Precision Emulation** on **GPU** (NVIDIA / AMD) Kernels.
+- **Industry:** HPC Software Engineer at **CESAR**, developing and optimizing large-scale oil & gas simulation applications.
 
-### Tech Stack
+- **Research:** M.Sc. researcher in Computing at **UFRGS**, investigating mixed-precision computing and precision emulation on modern GPU architectures.
 
-**Languages:**
+- **Education:** Computer Engineering graduate from **UFRGS**, awarded Academic Laurels.
 
-<p>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="18" align="absmiddle"/> C</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="18" align="absmiddle"/> C++</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://cdn.simpleicons.org/nvidia/76B900" height="18" align="absmiddle"/> CUDA</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://cdn.simpleicons.org/amd/ED1C24" height="18" align="absmiddle"/> HIP</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" height="18" align="absmiddle"/> Fortran</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" align="absmiddle"/> Python</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://cdn.simpleicons.org/rust/CE422B" height="18" align="absmiddle"/> Rust</span>
-</p>
+- **International Experience:** Former research intern at **Concordia University** in Montreal, Canada, through the MITACS Globalink Research Internship program.
 
-**Parallelism & HPC:**
+> **Current research:** **Mixed-precision arithmetic, precision emulation, and performance optimization for NVIDIA / AMD GPUs**.
 
-<p>
-  <span><img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/OpenMP_logo.png" height="18" align="absmiddle"/> OpenMP</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://www.openacc.org/themes/openacc/images/openacc_logo.svg" height="18" align="absmiddle"/> OpenACC</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://avatars.githubusercontent.com/u/14836989?s=200&v=4" height="18" align="absmiddle"/> MPI</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://cdn.simpleicons.org/nvidia/76B900" height="18" align="absmiddle"/> CUDA Streams</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://cdn.simpleicons.org/nvidia/76B900" height="18" align="absmiddle"/> Unified Memory</span>
-  &nbsp;&nbsp;&nbsp;
-  <span>
-  <img src="https://cdn.simpleicons.org/amd/ED1C24" height="18" align="absmiddle"/>
-  <img src="https://cdn.simpleicons.org/nvidia/76B900" height="18" align="absmiddle"/>
-  &nbsp;Mixed-Precision
-</span>
-</p>
+---
 
-**Build & Toolchain:**
+## Expertise
 
-<p>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="18" align="absmiddle"/> CMake</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="18" align="absmiddle"/> CTest</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://cdn.simpleicons.org/gnu/A42E2B" height="18" align="absmiddle"/> Make</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://cdn.simpleicons.org/gnu/A42E2B" height="18" align="absmiddle"/> GCC</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://cdn.simpleicons.org/llvm/262D3A" height="18" align="absmiddle"/> Clang</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://cdn.simpleicons.org/nvidia/76B900" height="18" align="absmiddle"/> NVCC</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://cdn.simpleicons.org/llvm/262D3A" height="18" align="absmiddle"/> LLVM</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://cdn.simpleicons.org/intel/0071C5" height="18" align="absmiddle"/> Intel Compilers</span>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>GPU & Parallel Computing</strong><br/><br/>
+      CUDA and HIP kernel development, multi-GPU execution, asynchronous streams,
+      memory management, workload decomposition, and heterogeneous computing.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Performance Engineering</strong><br/><br/>
+      Profiling, benchmarking, memory-access optimization, kernel tuning,
+      scalability analysis, and performance portability.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>Scientific Computing</strong><br/><br/>
+      Numerical methods, large-scale simulation, mixed-precision algorithms,
+      precision emulation, and floating-point analysis.
+    </td>
+    <td valign="top">
+      <strong>HPC Software Engineering</strong><br/><br/>
+      Modern C++, build automation, testing, debugging, reproducible environments,
+      batch scheduling, and maintainable scientific software.
+    </td>
+  </tr>
+</table>
 
-**Profiling & Debug:**
+---
+
+## Technology Stack
+
+### Programming & GPU Computing
 
 <p>
-  <span><img src="https://cdn.simpleicons.org/nvidia/76B900" height="18" align="absmiddle"/> Nsight</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://cdn.simpleicons.org/gnu/A42E2B" height="18" align="absmiddle"/> GDB</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://cdn.simpleicons.org/llvm/262D3A" height="18" align="absmiddle"/> Sanitizers</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://cdn.simpleicons.org/gnu/A42E2B" height="18" align="absmiddle"/> gprofng</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://www.valgrind.org/images/valgrind-100.png" height="18" align="absmiddle"/> Valgrind</span>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA"/>
+  <img src="https://img.shields.io/badge/HIP-ED1C24?style=flat-square&logo=amd&logoColor=white" alt="HIP"/>
+  <img src="https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white" alt="Fortran"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-**Infrastructure:**
+### Parallelism & Numerical Computing
 
 <p>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="18" align="absmiddle"/> Linux</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="18" align="absmiddle"/> Docker</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://ulhpc-tutorials.readthedocs.io/en/production/containers/singularity/images/sing.png" height="18" align="absmiddle"/> Singularity</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Slurm_logo.svg" height="18" align="absmiddle"/> Slurm</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="18" align="absmiddle"/> Git</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="18" align="absmiddle"/> GCP</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="18" align="absmiddle"/> Azure</span>
+  <img src="https://img.shields.io/badge/OpenMP-00A9E0?style=flat-square&logo=openmp&logoColor=white" alt="OpenMP"/>
+  <img src="https://img.shields.io/badge/OpenACC-1F6FEB?style=flat-square" alt="OpenACC"/>
+  <img src="https://img.shields.io/badge/MPI-2C3E50?style=flat-square" alt="MPI"/>
+  <img src="https://img.shields.io/badge/Multi--GPU-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Multi-GPU"/>
+  <img src="https://img.shields.io/badge/CUDA_Streams-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA Streams"/>
+  <img src="https://img.shields.io/badge/Unified_Memory-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Unified Memory"/>
+  <img src="https://img.shields.io/badge/Mixed--Precision-6F42C1?style=flat-square" alt="Mixed-Precision"/>
+  <img src="https://img.shields.io/badge/Precision_Emulation-8B5CF6?style=flat-square" alt="Precision Emulation"/>
 </p>
 
-**Backend & Data:**
+### Build, Compilation & Performance
 
 <p>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="18" align="absmiddle"/> FastAPI</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="18" align="absmiddle"/> PostgreSQL</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://cdn.simpleicons.org/postgresql/4169E1" height="18" align="absmiddle"/> SQL</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://cdn.simpleicons.org/pandas/150458" height="18" align="absmiddle"/> Pandas</span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://cdn.simpleicons.org/numpy/013243" height="18" align="absmiddle"/> NumPy</span>
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake"/>
+  <img src="https://img.shields.io/badge/CTest-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CTest"/>
+  <img src="https://img.shields.io/badge/Make-A42E2B?style=flat-square&logo=gnu&logoColor=white" alt="Make"/>
+  <img src="https://img.shields.io/badge/GCC-A42E2B?style=flat-square&logo=gnu&logoColor=white" alt="GCC"/>
+  <img src="https://img.shields.io/badge/Clang-262D3A?style=flat-square&logo=llvm&logoColor=white" alt="Clang"/>
+  <img src="https://img.shields.io/badge/LLVM-262D3A?style=flat-square&logo=llvm&logoColor=white" alt="LLVM"/>
+  <img src="https://img.shields.io/badge/NVCC-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVCC"/>
+  <img src="https://img.shields.io/badge/Intel_Compilers-0071C5?style=flat-square&logo=intel&logoColor=white" alt="Intel Compilers"/>
 </p>
+
+### Profiling & Debugging
+
+<p>
+  <img src="https://img.shields.io/badge/NVIDIA_Nsight-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Nsight"/>
+  <img src="https://img.shields.io/badge/GDB-A42E2B?style=flat-square&logo=gnu&logoColor=white" alt="GDB"/>
+  <img src="https://img.shields.io/badge/Sanitizers-262D3A?style=flat-square&logo=llvm&logoColor=white" alt="Sanitizers"/>
+  <img src="https://img.shields.io/badge/gprofng-4B275F?style=flat-square&logo=gnu&logoColor=white" alt="gprofng"/>
+  <img src="https://img.shields.io/badge/Valgrind-4B275F?style=flat-square" alt="Valgrind"/>
+</p>
+
+### HPC Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Slurm-2E5EAA?style=flat-square" alt="Slurm"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Singularity-1D3557?style=flat-square" alt="Singularity"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+<details>
+  <summary><strong>Additional Technologies</strong></summary>
+
+  <br/>
+
+  <strong>Cloud & Development</strong>
+
+  <p>
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+    <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
+    <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  </p>
+
+  <strong>Data & Storage</strong>
+
+  <p>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  </p>
+</details>
 
 ---
